@@ -1,9 +1,8 @@
 *{
-    margin: 2px;
+    margin: 5px;
     padding: 0;
-   box-sizing: border-box;
-   /* display: flex;
-    justify-content: center;*/
+  box-sizing: border-box;
+ 
 }
 
 .bebas-neue-regular {
@@ -27,20 +26,16 @@
     background-color: coral;
     margin-left: 100px;
     margin-right: 50px;
-    /* text-align: center;
-    font-family: fantasy;
-    font-size: 50px;
-    background-color: coral;
-*/
+   
+
 }
 body{
     background-image: url(../img/38019583-fondo-amarillo-floral-vector-sin-patrón.jpg);
 }
 
-.carousel-inner img{
-    margin: auto;
+.foto-carousel{
+  align-content: center;
 }
-
 
  footer{
     background-color: black;
